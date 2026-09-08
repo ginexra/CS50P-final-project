@@ -1,5 +1,4 @@
 # SUDOKU GAME
-### Video Demo:  <https://youtu.be/jQOMqzUUXYk>
 
 ## Description:
 My project is an interactive Sudoku game. The grid is generated using the [https://www.youdosudoku.com](https://www.youdosudoku.com) API, which also provides the correct solution for the code to compare with the user's guesses. The website offers three levels of difficulty. The code allows the user to save the game once it has been generated and displayed or to exit without saving any progress.
